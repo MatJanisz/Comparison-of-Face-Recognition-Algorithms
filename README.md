@@ -1,1 +1,1 @@
-# Introduction-to-Computer-Vision
+# Comparison-of-Face-Recognition-Algorithms
